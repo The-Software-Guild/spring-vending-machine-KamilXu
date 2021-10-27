@@ -1,0 +1,5 @@
+Water::1.00::6
+Mars::1.00::13
+Snickers::1.25::20
+Monster Energy::2.00::19
+Taytos::1.50::19
